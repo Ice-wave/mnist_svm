@@ -1,1 +1,1 @@
-"# model_compression" 
+"#some methods on mnist" 
